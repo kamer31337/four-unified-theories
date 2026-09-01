@@ -110,3 +110,6 @@ make
 # Run Grand Tour terminal demo
 .\unified_terminal.exe --demo
 ```
+
+<img width="1004" height="714" alt="image" src="https://github.com/user-attachments/assets/5cd9b1d2-fcfc-4b75-b257-e441338f4e30" />
+
