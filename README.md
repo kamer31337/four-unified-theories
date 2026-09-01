@@ -7,7 +7,7 @@
 ## 1. The Four Unified Papers
 
 1. **Akibue & Murao (2016)**: *Network coding for distributed quantum computation over cluster and butterfly networks* ([arXiv:1503.07740v2](https://arxiv.org/abs/1503.07740))
-   - Canonical Kraus-Cirac decomposition $U = (u \otimes u') e^{i(x X\otimes X + y Y\otimes Y + z Z\otimes Z)} (w \otimes w')$ and Kraus-Cirac number $KC\#(U)$.
+   - Canonical Kraus-Cirac decomposition $U = (u \otimes u') e^{i(x X\otimes X + y Y\otimes Y + z Z\otimes Z)} (w \otimes w')$ and Kraus-Cirac number $KC\(U)$.
    - LOCC protocols on $(k,N)$-cluster, Butterfly, and Grail networks with Bell state resource matrices $|\Phi^+\rangle$.
    - 7-step quantum network coding protocol for arbitrary 2-qubit gates on the Butterfly network.
    - Deterministic (Theorem 2, Theorem 3) and SLOCC probabilistic (Theorem 4, Lemma 3) implementability criteria.
